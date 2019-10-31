@@ -1,17 +1,16 @@
 # Importações
 import json
 import requests
-from sys import exit
 
 # Classe principal
-class connection:
+class IBGEConnection:
     """
         Classe de conexão com a API do IBGE
 
         Essa classe tem todas as informações e bibliotecas necessárias para conectar em qualquer API do IBGE,
         desde que a URL passada seja valida
     """
-    def init(self, url):
+    def __init__(self, url):
         """
         Constructor
 
