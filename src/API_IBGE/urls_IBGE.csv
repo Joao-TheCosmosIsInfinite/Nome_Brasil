@@ -1,0 +1,8 @@
+https://servicodados.ibge.gov.br/api/v2/censos/nomes/{nomes}
+https://servicodados.ibge.gov.br/api/v2/censos/nomes/{nomes}?sexo={sexo}
+https://servicodados.ibge.gov.br/api/v2/censos/nomes/{nomes}?groupBy=UF
+https://servicodados.ibge.gov.br/api/v2/censos/nomes/{nomes}?localidade={municipioEstado}
+https://servicodados.ibge.gov.br/api/v2/censos/nomes/ranking
+https://servicodados.ibge.gov.br/api/v2/censos/nomes/ranking/?decada={decada}
+https://servicodados.ibge.gov.br/api/v2/censos/nomes/ranking?localidade={municipioEstado}
+https://servicodados.ibge.gov.br/api/v2/censos/nomes/ranking/?sexo={sexo}
