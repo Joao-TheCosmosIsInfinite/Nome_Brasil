@@ -6,9 +6,7 @@
 
 # Importações
 import unittest
-import sys
 from src.Connection_IBGE import IBGEConnection
-
 
 # Classe
 class TestCase(unittest.TestCase):
